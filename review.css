@@ -83,12 +83,3 @@
 .reviews .review:last-child {
     border-bottom: 0;
 }
-p{
-    font-family: "Roboto", "Helvetica", "Sans-serif";
-}
-h5{
-    font-family: "Playfair Display", serif;
-}
-b{
-    font-family: "Playfair Display", serif;
-}
